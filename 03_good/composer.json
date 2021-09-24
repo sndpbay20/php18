@@ -1,0 +1,15 @@
+{
+    "name": "dell/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandeep Thakur",
+            "email": "sandeep@example.com"
+        }
+    ],
+    "require": {}
+}
